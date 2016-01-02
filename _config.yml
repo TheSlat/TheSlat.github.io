@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Ethan Slattery
 locale:           en_US
-url:
+url:              //TheSlat.github.io
 
 
 # Jekyll configuration
@@ -26,10 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
+  name: Ethan Slattery
+  avatar: CRAU.jpg
   bio: "Describe your self."
-  email:
+  email: ethan.slattery@yahoo.com
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -40,11 +40,11 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: TheSlat
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: ethanslattery
   xing: #username
-  instagram: #username
+  instagram: planomanic
   lastfm: #username
   tumblr: #username
   pinterest: #username
