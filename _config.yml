@@ -2,12 +2,12 @@
 
 title:            Ethan Slattery
 locale:           en_US
-url:              //TheSlat.github.io
+##url:              //TheSlat.github.io
 
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   /:categories/:title.html
 markdown:    kramdown
 highlighter: pygments
 sass:
