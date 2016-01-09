@@ -28,6 +28,7 @@ To learn how to install and use this theme check out the [Setup Guide](http://mm
  - [Tags with tag index pages - requires plugin](http://charliepark.org/tags-in-jekyll/)
  - [Tag Clouds - no plugins](https://dareneiri.github.io/Jekyll-Themes-and-Tags/)
  - [maps with jekyll](https://github.com/mapsam/jekyll-maps/tree/gh-pages)
+ - [Leaflet Maps](https://stackoverflow.com/questions/27681182/how-to-display-a-leaflet-map-in-a-single-post-in-jekyll)
 
 ## Inspiration
  - [Soul Wire](http://soulwire.co.uk/hello)
