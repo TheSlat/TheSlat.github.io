@@ -3,6 +3,8 @@
 title:            Ethan Slattery
 locale:           en_US
 ##url:              //TheSlat.github.io
+mapid: mapbox.pencil
+mapbox-token: "pk.eyJ1IjoidGhlc2xhdCIsImEiOiI1YmdVT0RZIn0.hmnkavENDfMfCTdZUsfq3A"
 
 
 # Jekyll configuration

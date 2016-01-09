@@ -1,28 +1,24 @@
 ---
 layout: post
-title: Sample Category Post
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title: My first test post
+excerpt: "My first test post for testing all the things"
 modified: 2016-01-06
 categories : [blog]
 tags: [intro, beginner, jekyll, tutorial]
-comments: true
+comments: flase
+
+mapType: mapbox   
+coordinates: -178.799722,51.789016
+zoom: 8
+
 image:
   feature: sample-image-5.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3>Overview</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section><!-- /#table-of-contents -->
-
 ## HTML Elements
+{% include _static-map.html %}
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
