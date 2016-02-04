@@ -11,7 +11,7 @@ mapbox-token: "pk.eyJ1IjoidGhlc2xhdCIsImEiOiI1YmdVT0RZIn0.hmnkavENDfMfCTdZUsfq3A
 
 permalink:   /:categories/:title.html
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
