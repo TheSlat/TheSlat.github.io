@@ -36,9 +36,9 @@ I had seen platformIO before but it advertises itself as an "open source ecosyst
 [Here is the official quickstart guide, if my steps don't work for you](http://docs.platformio.org/en/latest/quickstart.html)
 
 Install platforio using pip (python package manager). Make sure this is a terminal with python 2.7 in the $path$. I didn't have to install pip on my fresh install of python
-~~~BASH
+{% highlight BASH %}
 pip install -U platformio
-~~~
+{% endhighlight %}
 
 You can find the name of the board you are using using the [http://platformio.org/#!/boards](Embedded board explorer). I am using a Arduino Diecimila with an ATMEGA328P chip. I already had a project so I made sure it matched the folder structure (with licraries in a **src** subfolder and libraries and includes in a **lib** subfolder and then ran the following command in my project folder.
 ~~~BASH
