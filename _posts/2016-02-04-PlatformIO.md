@@ -8,7 +8,7 @@ tags: [IDE, Arduino, Clion]
 comments: false
 published: true
 image:
-  feature: sample-image-5.jpg
+  feature: code-image-1.jpg
   credit: EthanSlattery
 ---
 ### Motivation ###
