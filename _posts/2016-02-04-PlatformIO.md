@@ -6,7 +6,7 @@ modified: 2016-02-04
 categories : [setup]
 tags: [IDE, Arduino, Clion]
 comments: false
-published: false
+published: true
 image:
   feature: sample-image-5.jpg
   credit: EthanSlattery
