@@ -3,7 +3,7 @@ layout: post
 title: My first test post
 excerpt: "My first test post for testing all the things"
 modified: 2016-01-06
-categories : [blog]
+categories : [setup]
 tags: [intro, beginner, jekyll, tutorial]
 comments: flase
 
