@@ -3,7 +3,7 @@ layout: post
 title: Arduino/AVR and platformIO
 excerpt: "Getting AVR code to play nice with Clion"
 modified: 2016-02-04
-categories : [setup]
+categories : [blog]
 tags: [IDE, Arduino, Clion]
 comments: false
 ---
