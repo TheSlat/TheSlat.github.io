@@ -52,4 +52,4 @@ since I already had the suggested fodler structure it downloaded all the necessa
 	<figcaption>Clion Working with my project, proof!</figcaption>
 </figure>
 
-I will write more once I use it a little longer, but I am very impressed so far. I also noticed that it inclued a travis.yml file, and that travis has support for continous integration build for embedded platformIO projects. Nice!
+I will write more once I use it a little longer, but I am very impressed so far. I also noticed that it inclued a travis.yml file, and that travis has support for continous integration build for embedded platformIO projects. Nice! There is also [integration with other IDEs](http://docs.platformio.org/en/latest/ide.html) so I might play with that to see what else there is for the day I eventually lose my free Clion liscense, or try to find a good open source alternative out of principle.
