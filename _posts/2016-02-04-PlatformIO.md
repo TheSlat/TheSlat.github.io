@@ -41,9 +41,9 @@ pip install -U platformio
 {% endhighlight %}
 
 You can find the name of the board you are using using the [http://platformio.org/#!/boards](Embedded board explorer). I am using a Arduino Diecimila with an ATMEGA328P chip. I already had a project so I made sure it matched the folder structure (with licraries in a **src** subfolder and libraries and includes in a **lib** subfolder and then ran the following command in my project folder.
-~~~BASH
+{% highlight BASH %}
 platformio init --ide clion --board diecimilaatmega328
-~~~
+{% endhighlight %}
 
 since I already had the suggested fodler structure it downloaded all the necessary libraries and tools for an AVR/Arduino project, created the Cmakelists.txt, and a platformio.ini and was done. I opened Clion and it recognized the folder as a project and was programming! Auto complete with all the libraries, compiling, and uploading to my board with no other settings. Nice!
 
